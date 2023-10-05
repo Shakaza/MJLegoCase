@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\bin\Debug\net7.0\LegoCase.Core.deps.json
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\bin\Debug\net7.0\LegoCase.Core.dll
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\bin\Debug\net7.0\LegoCase.Core.pdb
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\bin\Debug\net7.0\LegoCase.Database.dll
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\bin\Debug\net7.0\LegoCase.Database.pdb
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.csproj.CopyComplete
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.dll
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\refint\LegoCase.Core.dll
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\LegoCase.Core.pdb
+C:\Users\Bruger\Desktop\Lego Case\LegoCase.Core\obj\Debug\net7.0\ref\LegoCase.Core.dll

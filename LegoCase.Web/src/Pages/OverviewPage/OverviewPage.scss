@@ -1,0 +1,36 @@
+.equipment-overview-table {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+
+    & > thead > tr,
+    & > tbody > tr {
+        border: 1px solid black;
+
+        & > td {
+            padding-right: 20px;
+        }
+    }
+}
+
+.table-header {
+    font-weight: bold;
+}
+
+.equipment-state {
+    width: 200px;
+    height: 50px;
+    color: black;
+
+    &.color-yellow {
+        background-color: yellow;
+    }
+
+    &.color-green {
+        background-color: green;
+    }
+
+    &.color-red {
+        background-color: red;
+    }
+}
