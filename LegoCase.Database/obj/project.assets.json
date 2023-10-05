@@ -1271,11 +1271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\LegoCase.Database.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\LegoCase.Database.csproj",
       "projectName": "LegoCase.Database",
-      "projectPath": "C:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\LegoCase.Database.csproj",
+      "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\LegoCase.Database.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"

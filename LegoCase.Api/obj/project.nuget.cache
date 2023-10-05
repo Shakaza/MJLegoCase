@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "epFroGQ9cTBQ7QvtFsn5QIifWoviwhsg2j9Pt1dBqL0PUzsD2yE6YwMZFSH1X8GgQqSJPmrFAo9O3O+UHpUONg==",
+  "dgSpecHash": "HE0Aa9KMn1HrSZwwVoPZGboYEsOWI7RLOA1ME/9Gt5bbbbp8vwU4Tekr2gtR+cvhbNUluyyT5KUlwLX7foMahg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\LegoCase.Api.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\LegoCase.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

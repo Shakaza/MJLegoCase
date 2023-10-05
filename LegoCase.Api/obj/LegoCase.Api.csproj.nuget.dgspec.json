@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\LegoCase.Api.csproj": {}
+    "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\LegoCase.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\LegoCase.Api.csproj": {
+    "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\LegoCase.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\LegoCase.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\LegoCase.Api.csproj",
         "projectName": "LegoCase.Api",
-        "projectPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\LegoCase.Api.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\LegoCase.Api.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\LegoCase.Core.csproj": {
-                "projectPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\LegoCase.Core.csproj"
+              "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\LegoCase.Core.csproj": {
+                "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\LegoCase.Core.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\LegoCase.Core.csproj": {
+    "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\LegoCase.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\LegoCase.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\LegoCase.Core.csproj",
         "projectName": "LegoCase.Core",
-        "projectPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\LegoCase.Core.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\LegoCase.Core.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -88,8 +88,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\LegoCase.Database.csproj": {
-                "projectPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\LegoCase.Database.csproj"
+              "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\LegoCase.Database.csproj": {
+                "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\LegoCase.Database.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\LegoCase.Database.csproj": {
+    "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\LegoCase.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\LegoCase.Database.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\LegoCase.Database.csproj",
         "projectName": "LegoCase.Database",
-        "projectPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\LegoCase.Database.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\LegoCase.Database.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Database\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"

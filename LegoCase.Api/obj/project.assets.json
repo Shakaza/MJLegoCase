@@ -1181,11 +1181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\LegoCase.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\LegoCase.Api.csproj",
       "projectName": "LegoCase.Api",
-      "projectPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\LegoCase.Api.csproj",
+      "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\LegoCase.Api.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Api\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1201,8 +1201,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\LegoCase.Core.csproj": {
-              "projectPath": "c:\\Users\\Bruger\\Desktop\\Lego Case\\LegoCase.Core\\LegoCase.Core.csproj"
+            "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\LegoCase.Core.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\Desktop\\Mikkel Ting\\MJLegoCase\\LegoCase.Core\\LegoCase.Core.csproj"
             }
           }
         }
